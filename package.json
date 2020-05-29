@@ -1,0 +1,19 @@
+{
+  "name": "alexhanna",
+  "version": "1.0.0",
+  "description": "this is a test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "example"
+  ],
+  "author": "Alex Hanna",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
